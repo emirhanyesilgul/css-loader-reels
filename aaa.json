@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "ID": 40264746,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 6786,
+            "CHANNELID": 78,
+            "status": null,
+            "type": "availability",
+            "channelCode": "TatilSepeti",
+            "channelLogo": "https://elektrawebfiles.blob.core.windows.net/bdcac343/184be001-bcf9-7379-88fe-756c0670c000.png",
+            "url": "https://channelmanager.elektraweb.com/tatilsepetihotelid=19105&action=availability&hotelChannelManagerId=6786&jobId=40264746"
+        },
+        {
+            "ID": 4371840,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 6786,
+            "CHANNELID": 78,
+            "status": false,
+            "type": "price",
+            "channelCode": "TatilSepeti",
+            "channelLogo": "https://elektrawebfiles.blob.core.windows.net/bdcac343/184be001-bcf9-7379-88fe-756c0670c000.png",
+            "url": "https://channelmanager.elektraweb.com/tatilsepetihotelid=19105&action=price&hotelChannelManagerId=6786&jobId=4371840"
+        },
+        {
+            "ID": 4866610,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 6786,
+            "CHANNELID": 78,
+            "status": true,
+            "type": "restriction",
+            "channelCode": "TatilSepeti",
+            "channelLogo": "https://elektrawebfiles.blob.core.windows.net/bdcac343/184be001-bcf9-7379-88fe-756c0670c000.png",
+            "url": "https://channelmanager.elektraweb.com/tatilsepetihotelid=19105&action=restriction&hotelChannelManagerId=6786&jobId=4866610"
+        }
+    ],
+    [
+        {
+            "ID": 40264747,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 28899,
+            "CHANNELID": 127,
+            "status": null,
+            "type": "availability",
+            "channelCode": "ExpediaTest",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/188e85b9-a3af-1864-8a4a-24c002b98000.png",
+            "url": "https://channelmanager.elektraweb.com/expediatesthotelid=19105&action=availability&hotelChannelManagerId=28899&jobId=40264747"
+        },
+        {
+            "ID": 4371841,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 28899,
+            "CHANNELID": 127,
+            "type": "price",
+            "status": null,
+            "channelCode": "ExpediaTest",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/188e85b9-a3af-1864-8a4a-24c002b98000.png",
+            "url": "https://channelmanager.elektraweb.com/expediatesthotelid=19105&action=price&hotelChannelManagerId=28899&jobId=4371841"
+        },
+        {
+            "ID": 4866611,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 28899,
+            "CHANNELID": 127,
+            "status": null,
+            "type": "restriction",
+            "channelCode": "ExpediaTest",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/188e85b9-a3af-1864-8a4a-24c002b98000.png",
+            "url": "https://channelmanager.elektraweb.com/expediatesthotelid=19105&action=restriction&hotelChannelManagerId=28899&jobId=4866611"
+        }
+    ],
+    [
+        {
+            "ID": 40264748,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 30566,
+            "CHANNELID": 128,
+            "status": null,
+            "type": "availability",
+            "channelCode": "NamilaTour",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/24277/images/3cb572f2-7ffb-45fc-835a-652e294ed6c1.png",
+            "url": "https://channelmanager.elektraweb.com/namilatourhotelid=19105&action=availability&hotelChannelManagerId=30566&jobId=40264748"
+        },
+        {
+            "ID": 4371842,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 30566,
+            "CHANNELID": 128,
+            "status": null,
+            "type": "price",
+            "channelCode": "NamilaTour",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/24277/images/3cb572f2-7ffb-45fc-835a-652e294ed6c1.png",
+            "url": "https://channelmanager.elektraweb.com/namilatourhotelid=19105&action=price&hotelChannelManagerId=30566&jobId=4371842"
+        },
+        {
+            "ID": 4866612,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 30566,
+            "CHANNELID": 128,
+            "status": null,
+            "type": "restriction",
+            "channelCode": "NamilaTour",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/24277/images/3cb572f2-7ffb-45fc-835a-652e294ed6c1.png",
+            "url": "https://channelmanager.elektraweb.com/namilatourhotelid=19105&action=restriction&hotelChannelManagerId=30566&jobId=4866612"
+        }
+    ],
+    [
+        {
+            "ID": 40264749,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 33188,
+            "CHANNELID": 120,
+            "status": null,
+            "type": "availability",
+            "channelCode": "724oda",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/18b13c1f-1b4e-1608-8678-9f4a1a178000.png",
+            "url": "https://channelmanager.elektraweb.com/724odahotelid=19105&action=availability&hotelChannelManagerId=33188&jobId=40264749"
+        },
+        {
+            "ID": 4371843,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 33188,
+            "CHANNELID": 120,
+            "status": null,
+            "type": "price",
+            "channelCode": "724oda",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/18b13c1f-1b4e-1608-8678-9f4a1a178000.png",
+            "url": "https://channelmanager.elektraweb.com/724odahotelid=19105&action=price&hotelChannelManagerId=33188&jobId=4371843"
+        },
+        {
+            "ID": 4866613,
+            "HOTELID": 19105,
+            "HOTELCHANNELMANAGERID": 33188,
+            "CHANNELID": 120,
+            "status": null,
+            "type": "restriction",
+            "channelCode": "724oda",
+            "channelLogo": "https://files.cdn.elektraweb.com/bdcac343/18b13c1f-1b4e-1608-8678-9f4a1a178000.png",
+            "url": "https://channelmanager.elektraweb.com/724odahotelid=19105&action=restriction&hotelChannelManagerId=33188&jobId=4866613"
+        }
+    ]
+]
