@@ -140,3 +140,65 @@
         }
     ]
 ]
+
+
+"Object": "QA_CHANNELMANAGER_TEMP_SUPPORT_TICKET",
+"Select": [
+    "*"
+],
+"Where": [
+    {
+        "Column": "CREATORID",
+        "Operator": "IN",
+        "Value": [
+            -209,
+            -203,
+            -45,
+            -16,
+            -14
+        ]
+    },
+    {
+        "Column": "HIDE",
+        "Operator": "=",
+        "Value": 1
+    },
+    {
+        "Column": "CREATIONDATE",
+        "Operator": ">=",
+        "Value": "moment().add(-1,'days').format('YYYY-MM-DD')"
+    },
+    {
+        "Column": "CREATIONDATE",
+        "Operator": "<=",
+        "Value": "moment().format('YYYY-MM-DD')"
+    }
+],
+"Paging": {
+    "ItemsPerPage": 10000,
+    "Current": 1
+}
+
+
+{
+    "id": "record2.nightaudith-htmlreports.4d4db756494b1",
+    "name": "Night Audith Html Reports",
+    "params": {},
+    "options": {
+      "datasets": {
+        "DATAS": "$any{\n  return (async () => {\n    let response = await angus.api.select({\n      Object: 'QA_CHANNELMANAGER_TEMP_SUPPORT_TICKET',\n      Select: ['*'],\n      Where: [\n        {\n          Column: 'CREATORID',\n          Operator: 'IN',\n          Value: [-209, -203, -45, -16, -14],\n        },\n        {\n          Column: 'CREATIONDATE',\n          Operator: '>=',\n          Value: '2024-06-11',\n        },\n        {\n          Column: 'CREATIONDATE',\n          Operator: '<=',\n          Value: '2024-06-11',\n        },\n      ],\n      Paging: {\n        ItemsPerPage: 1000,\n        Current: 1,\n      },\n    });\n    return response?.ResultSets?.[0];\n  })();\n}"
+      },
+      "size": "landscape",
+      "autoHeight": true,
+      "a4": true,
+      "autoSendMail": false
+    }
+  },
+  {
+    "id": "record2.nightaudith-htmlreports.593cfa3e98041",
+    "name": "Night Audith Html Reports",
+    "params": {},
+    "options": {
+      "autoSendMail": false
+    }
+  }
